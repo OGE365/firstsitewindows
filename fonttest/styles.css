@@ -19,19 +19,20 @@
 }
 
 
-/* @font-face {
+ @font-face {
     font-family: 'freightround_prolight';
     src: url (fonts/'freightroundprolight-webfont.woff2') format('woff2'),
          url (fonts/'freightroundprolight-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
-} */
+}
+
 
 body {
     max-width: 600px;
     margin: auto;
-    font-family:  serif;
+    font-family: arial, serif;
     font-weight: 400;
 }
 h1{
