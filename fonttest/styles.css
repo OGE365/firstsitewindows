@@ -31,15 +31,15 @@
 body {
     max-width: 600px;
     margin: auto;
-    font-family: "Merriweather", serif;
-    font-weight: 400px;
+    font-family:  serif;
+    font-weight: 400;
 }
 h1{
     font-family:'freightround_probold',arial,times new roman;
     
 }
 footer p{
-    font-weight: 700px; 
+    font-weight: 900; 
 }
 
 .icons{
