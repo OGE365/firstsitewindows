@@ -32,14 +32,14 @@ body {
     max-width: 600px;
     margin: auto;
     font-family: "Merriweather", serif;
-    font-weight: 400;
+    font-weight: 400px;
 }
 h1{
     font-family:'freightround_probold',arial,times new roman;
     
 }
 footer p{
-    font-weight: 700; 
+    font-weight: 700px; 
 }
 
 .icons{
